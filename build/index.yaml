@@ -14,6 +14,6 @@ entries:
     name: supabase
     type: application
     urls:
-    - https://raw.githubusercontent.com/jorpilo/supabase-kubernetes/main/build/supabase-0.0.2.tgz
+    - https://raw.githubusercontent.com/TenUchikawa/supabase-kubernetes/main/build/supabase-0.0.2.tgz
     version: 0.0.2
 generated: "2022-05-03T00:43:11.402949847+10:00"
